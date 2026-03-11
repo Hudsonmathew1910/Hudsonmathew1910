@@ -1,64 +1,28 @@
-# Hi there, I'm Hudson 👋
+<h1 align="center">Hi 👋, I'm Hudson</h1>
+<h3 align="center">Python Dev | Data Analysis | Full Stack Dev</h3>
 
-I'm an aspiring **Python & Full-Stack Developer** with a passion for **Machine Learning, Software Development, Multimedia, and Gaming**.  
-I love exploring **new technologies**, building **projects**, and learning **practical skills** every day.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hudsonmathew1910&label=Profile%20views&color=0e75b6&style=flat" alt="hudsonmathew1910" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hudsonmathew1910" alt="hudsonmathew1910" /></a> </p>
 
-## 🛠️ Skills
+- 🔭 I’m currently working on **Machine Learning**
 
-**Programming Languages:**  
-Python 🐍 | JavaScript ⚡ | HTML5 | CSS3 | SQL  
+- 🌱 I’m currently learning **Pyspiders - Python | Data Analysis | Machine Learning |**
 
-**Frameworks & Libraries:**  
-Django | Flask | React | NumPy | Pandas | Matplotlib | Scikit-learn  
+- 👨‍💻 All of my projects are available at [https://hudsonmathew1910.github.io/Hudson-Portfolio/](https://hudsonmathew1910.github.io/Hudson-Portfolio/)
 
-**Tools & Platforms:**  
-Git & GitHub | VS Code | Photoshop | Figma | Tally | Excel  
+- 📫 How to reach me **hudsonmathew2004@gmail.com**
 
-**Other Interests:**  
-Video & Photo Editing 🎬 | Graphic Design 🎨 | Gaming 🎮 | Hardware & Software  
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mHCtIrrdzqFbT-Q0v1v11g7FU_pvBBvP/view?usp=sharing](https://drive.google.com/file/d/1mHCtIrrdzqFbT-Q0v1v11g7FU_pvBBvP/view?usp=sharing)
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hudson-mathew-j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hudson-mathew-j" height="30" width="40" /></a>
+</p>
 
-## 📊 GitHub Stats
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-![Hudson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hudsonmathew1910&show_icons=true&locale=en&layout=compact" alt="hudsonmathew1910" /></p>
 
----
-
-## 💻 Projects
-
-### Python Projects
-- **Inventory Manager** – Manage stock, sales & generate reports using Python & SQLite.  
-- **ML Predictions** – Machine Learning models for predicting data trends.  
-
-### Web & Full-Stack Projects
-- **Portfolio Website** – Showcasing my projects & skills built with React & CSS.  
-- **Task Tracker App** – Full-stack app to manage tasks with Django backend & React frontend.  
-
-### Multimedia / Design Projects
-- **Video Editing Showcase** – Creative video editing examples using Premiere Pro & After Effects.  
-- **Graphic Design Portfolio** – Posters, banners, and creative designs using Photoshop & Canva.  
-
----
-
-## 📫 Connect with Me
-
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-
----
-
-## 🌟 Fun Facts
-
-- I love **gaming and exploring new tech trends**.  
-- Always learning **Python, ML, and Full-Stack development**.  
-- Coffee fuels my coding sessions ☕💻  
-
----
-
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hudsonmathew1910&show_icons=true&locale=en" alt="hudsonmathew1910" /></p>
