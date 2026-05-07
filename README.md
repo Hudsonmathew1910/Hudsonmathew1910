@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hudson</h1>
-<h3 align="center">Python Dev | Data Analysis | Full Stack Dev</h3>
+<h3 align="center">Python | Machine Learning | Data Analysis | Full Stack Dev</h3>
 
 ###
 
