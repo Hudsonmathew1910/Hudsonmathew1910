@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hudson</h1>
 <h3 align="center">Python | Machine Learning | Data Analysis | Full Stack Dev</h3>
-
-###
+</br>
+<h3 align="center">🎯 Python Developer | Django · ML · LLM · RAG</h3>
+<h3 align="center">🔧 I build production AI apps, ML pipelines, and full-stack web applications</h3>
+<h3 align="center">🌱 Currently upskilling in Data Science & Big Data at Pyspider, Bengaluru</h3>
+<h3 align="center">📫 hudsonmathew2004@gmail.com</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
