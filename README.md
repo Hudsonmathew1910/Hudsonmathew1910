@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hudson</h1>
 <h3 align="center">Python | Machine Learning | Data Analysis | Full Stack Dev</h3>
 </br>
-<h4>🎯 Python Developer | Django · ML · LLM · RAG</h4>
 <h4>🔧 I build production AI apps, ML pipelines, and full-stack web applications</h4>
 <h4>🌱 Currently upskilling in Data Science & Big Data at Pyspider, Bengaluru</h4>
 <h4>📫 hudsonmathew2004@gmail.com</h4>
